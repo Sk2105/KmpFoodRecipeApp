@@ -15,5 +15,5 @@ This is a Kotlin Multiplatform project targeting Android, Desktop.
 
 ## Desktop App
 ![](image/Screenshot%20(7).png)
-![](image/Screenshot%20(7).png)
+![](image/Screenshot%20(8).png)
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
